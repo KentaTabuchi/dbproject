@@ -10,7 +10,7 @@
 	<name>dbproject</name>
 
 	<properties>
-		<struts2.version>2.5.22</struts2.version>
+		<struts2.version>2.5.30</struts2.version>
 		<springframework.version>4.2.6.RELEASE</springframework.version>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
